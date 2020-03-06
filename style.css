@@ -1,0 +1,12 @@
+.title {
+    text-align: center;
+}
+
+div {
+    text-align: center;
+}
+
+ul li {
+    list-style: none;
+    padding-right: 2em;
+}
